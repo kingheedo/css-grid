@@ -3,7 +3,6 @@ import React from 'react'
 const Example3 = () => {
   return (
     <div className="example3">
-        asd
         <div className="background">
             <div className="content">
                 <header className='header'>
